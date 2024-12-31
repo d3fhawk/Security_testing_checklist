@@ -36,15 +36,21 @@ The checklist is organized into the following key categories:
 ### **5. Session Management**
    - Ensuring secure session handling and cookie management.
 
-### **6. Other Categories**
-   - Expandable to include specific testing areas such as cryptography, business logic flaws, and network security.
+### **6. Misconfig**
+   - Identifying and remediating system or application misconfigurations.
+
+### **7. Data Validation**
+   - Ensuring proper input validation to prevent injection attacks and other vulnerabilities.
+
+### **8. Secure Coding**
+   - Adopting best practices for writing secure code to minimize vulnerabilities.
 
 ---
 
 ## **Usage**
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/bug-bounty-checklist.git
+   git clone https://github.com/d3fhawk/Security_testing_checklist.git
    ```
 
 2. Review and customize the checklist based on your target application.
