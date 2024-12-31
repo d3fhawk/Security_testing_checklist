@@ -21,28 +21,28 @@ The **Bug Bounty Checklist Professional** is a structured approach to methodical
 ## **Checklist Categories**
 The checklist is organized into the following key categories:
 
-### **1. Recon**
+### **1. [Recon](https://github.com/d3fhawk/Security_testing_checklist/blob/main/Recon/Recon.md)**
    - Initial reconnaissance and information gathering.
 
-### **2. Authorization**
+### **2. [Authorization](https://github.com/d3fhawk/Security_testing_checklist/blob/main/Authorization/Authorization.md)**
    - Testing for broken access controls and privilege escalation.
 
-### **3. Authentication**
+### **3. [Authentication](https://github.com/d3fhawk/Security_testing_checklist/blob/main/Authentication/Authentication.md)**
    - Evaluating the robustness of authentication mechanisms.
 
-### **4. Presentation**
+### **4. [Presentation](https://github.com/d3fhawk/Security_testing_checklist/blob/main/Presentation/Presentation.md)**
    - Identifying vulnerabilities in the presentation layer.
 
-### **5. Session Management**
+### **5. [Session Management](https://github.com/d3fhawk/Security_testing_checklist/blob/main/Session_Management/Session.md)**
    - Ensuring secure session handling and cookie management.
 
-### **6. Misconfig**
+### **6. [Misconfig](https://github.com/d3fhawk/Security_testing_checklist/blob/main/Misconfiguration%20Bugs/Misconfiguration.md)**
    - Identifying and remediating system or application misconfigurations.
 
-### **7. Data Validation**
+### **7. [Data Validation](https://github.com/d3fhawk/Security_testing_checklist/blob/main/Data_Validation/Validate.md)**
    - Ensuring proper input validation to prevent injection attacks and other vulnerabilities.
 
-### **8. Secure Coding**
+### **8. [Secure Coding](https://cwe.mitre.org/data/definitions/1006.html)**
    - Adopting best practices for writing secure code to minimize vulnerabilities.
 
 ---
